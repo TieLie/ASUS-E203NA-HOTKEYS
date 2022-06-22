@@ -20,6 +20,6 @@ If you have different hotkeys then visit [wiki](https://github.com/TieLie/ASUS-H
 Download the latest release from [releases] (https://github.com/TieLie/ASUS-HOTKEYS/releases) then open it
 
 #### Donations
-WebMoney - Z605617743046
-Bank Card - 5208130009029947
-IBAN - BY64ALFA301430K8BZ0010270000
+- WebMoney - Z605617743046
+- Bank Card - 5208130009029947
+- IBAN - BY64ALFA301430K8BZ0010270000
