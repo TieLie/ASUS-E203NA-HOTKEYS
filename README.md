@@ -15,7 +15,7 @@ If you have different hotkeys then visit [wiki](https://github.com/TieLie/ASUS-H
 
 #### Credits
 - [qwerty12](https://github.com/qwerty12/) for Brightness Control
-- 
+
 #### Installation
 Download the latest release from [releases] (https://github.com/TieLie/ASUS-HOTKEYS/releases) then open it
 
