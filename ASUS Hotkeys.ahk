@@ -220,10 +220,10 @@ F6:: BS.SetBrightness(+10)
 #InstallKeybdHook
 SendMode Input
 SetWorkingDir %A_ScriptDir%
-Home::PgUp
-End::PgDn
-PgUp::Home
-PgDn::End
+; Home::PgUp
+; End::PgDn
+; PgUp::Home
+; PgDn::End
 VOLUME_MUTE::F10
 F10::VOLUME_MUTE
 VOLUME_DOWN::F11
